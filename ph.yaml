@@ -40,16 +40,26 @@ months:
     regions: [ph]
     mday: 1
   6:
+  - name: Pinatubo Day
+    regions: [ph]
+    mday: 15
   - name: Independence Day
     regions: [ph]
     mday: 12
   8:
+  - name: Cebu Founding Anniversary
+    regions: [ph]
+    mday: 6
   - name: Ninoy Aquino Day
     regions: [ph]
     mday: 21
   - name: National Heroes Day
     regions: [ph]
     function: ph_heroes_day(year)
+  9:
+  - name: Cebu Osmena Day
+    regions: [ph]
+    mday: 9
   11:
   - name: All Saints Day
     regions: [ph]
@@ -59,6 +69,9 @@ months:
     regions: [ph]
     mday: 30
   12:
+  - name: Pampanga Day
+    regions: [ph]
+    mday: 11
   - name: Christmas Day
     regions: [ph]
     mday: 25
